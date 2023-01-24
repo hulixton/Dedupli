@@ -1,4 +1,7 @@
+
+def add(x, y):
+    return x+y
+
 print("Hallo, ich bin Dedupli! :)")
-a = 7
-b = 8
-print(a + b)
+
+print(add(7, 8))
